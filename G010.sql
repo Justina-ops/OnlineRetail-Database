@@ -1,11 +1,5 @@
 /* ============================================================
    COURSE CODE: UCCD2303  
-   GROUP NUMBER: G010
-   GROUP LEADER NAME & EMAIL: Liew Jia Min jiamin0313@1utar.my
-   MEMBER 2 NAME: Leong Di Hao
-   MEMBER 3 NAME: Ngu Jing Rong
-   MEMBER 4 NAME: Yew Kai Qian
-   Submission date and time (DD-MON-YY): 28-08-2026
    ============================================================ */
    
 SET SQLBLANKLINES ON;
